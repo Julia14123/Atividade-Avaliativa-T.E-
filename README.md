@@ -16,20 +16,20 @@ Resposta: d;
 
 ##A
 
-void main() {
+ void main() {
 
-  int var1 = 2;
+   int var1 = 2;
 
-  int var2 = 5;
+   int var2 = 5;
 
-  String nome = 'Julia';
+    String nome = 'Julia';
 
-  print('O primeiro valor é $var1');
+   print('O primeiro valor é $var1');
 
-  print('O segundo valor é $var2');
+    print('O segundo valor é $var2');
 
-  print('O texto é $nome');
-}
+   print('O texto é $nome');
+ }
 
 
 
@@ -37,11 +37,11 @@ void main() {
 
 escrever(){
 
-for (int i = 1; i<11; i++){
+  for (int i = 1; i<11; i++){
 
-print(i);
+  print(i);
 
-}
+  }
 
 }
 
@@ -49,7 +49,7 @@ print(i);
 
 void main() {
 
-escrever();
+  escrever();
 
 }
 
@@ -59,11 +59,11 @@ escrever();
 
 escrever(int a ){
 
-for (int i = 1; i<=a; i++){
+  for (int i = 1; i<=a; i++){
 
-print(i);
+  print(i);
 
-}
+  }
 
 }
 
@@ -71,9 +71,9 @@ print(i);
 
 void main() {
 
-int num = 50;
+  int num = 50;
 
-escrever(num);
+  escrever(num);
 
 }
 
@@ -83,9 +83,9 @@ escrever(num);
 
 void main() {
 
-int num = 10;
+  int num = 10;
 
-soma(num);
+  soma(num);
 
 }
 
